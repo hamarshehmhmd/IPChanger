@@ -18,9 +18,11 @@ try it out!
 
 
 
-HOW IT WORKS:
+# How It Works:
 
 This program sends a GET request to a web page that displays your current IP address, and then uses BeautifulSoup to parse the HTML and extract the IP address. It then sends a POST request to a proxy website to get a new IP address, and extracts the IP address and port from the response.
 Keep in mind that this program is just an example, and it may not work for all proxy websites or in all cases. Additionally, changing your IP address may not be sufficient to protect your anonymity online, and there are other steps you may need to take to maintain your privacy.
 I hope this helps! Let me know if you have any questions.
+
+
 
